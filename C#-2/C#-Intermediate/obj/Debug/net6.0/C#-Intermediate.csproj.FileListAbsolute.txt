@@ -1,0 +1,15 @@
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\obj\Debug\net6.0\C#-Intermediate.csproj.AssemblyReference.cache
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\obj\Debug\net6.0\C#-Intermediate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\obj\Debug\net6.0\C#-Intermediate.AssemblyInfoInputs.cache
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\obj\Debug\net6.0\C#-Intermediate.AssemblyInfo.cs
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\obj\Debug\net6.0\C#-Intermediate.csproj.CoreCompileInputs.cache
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\bin\Debug\net6.0\C#-Intermediate.exe
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\bin\Debug\net6.0\C#-Intermediate.deps.json
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\bin\Debug\net6.0\C#-Intermediate.runtimeconfig.json
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\bin\Debug\net6.0\C#-Intermediate.dll
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\bin\Debug\net6.0\C#-Intermediate.pdb
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\obj\Debug\net6.0\C#-Intermediate.dll
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\obj\Debug\net6.0\refint\C#-Intermediate.dll
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\obj\Debug\net6.0\C#-Intermediate.pdb
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\obj\Debug\net6.0\C#-Intermediate.genruntimeconfig.cache
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\C#-2\C#-Intermediate\obj\Debug\net6.0\ref\C#-Intermediate.dll
