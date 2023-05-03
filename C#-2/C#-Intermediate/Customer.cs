@@ -4,6 +4,7 @@
     {
         public int Id;
         public string Name;
+
         //the readonly keyword makes sure that only one instance of this will be made
         //if we try to initialize another List of orders, we'll get an error in the IDE
         public readonly List<Order> Orders = new List<Order>();
