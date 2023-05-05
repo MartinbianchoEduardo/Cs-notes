@@ -22,7 +22,7 @@ namespace C__Intermediate
 
         public void Move(int speed, string to)
         {
-            Console.WriteLine( this.Name + "has moved to " + to + " at a speed of " + speed + "km/h");
+            Console.WriteLine( "{0} has moved to {1} at a speed of {2}km/h", this.Name, to, speed);
         }
 
     }

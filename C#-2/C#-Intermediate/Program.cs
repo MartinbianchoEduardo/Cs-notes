@@ -1,4 +1,6 @@
-﻿namespace Lectures
+﻿using C__Intermediate;
+
+namespace Lectures
 {
 
 
@@ -12,6 +14,10 @@
 
             customer.Promote();
             Console.WriteLine(customer.Orders.Count);
+
+            Car car = new Car("rara");
+            car.Move(10, "here");
+            Console.WriteLine(car.Axis);
         }
     }
 }
