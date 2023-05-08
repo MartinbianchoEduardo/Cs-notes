@@ -58,7 +58,7 @@ namespace C__AdvancedTopics
     public class Book1
     {
         public string Title { get; set; }
-        public float Price { get; set; }s
+        public float Price { get; set; }
     }
 
     //list of books
