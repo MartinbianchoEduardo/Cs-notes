@@ -23,9 +23,9 @@ public class Indexer
     }
 }
 
-public class Program
+class Program
 {
-    public static void Main(string[] args)
+    static void Main(string[] args)
     {
         var indexer = new Indexer();
         indexer["name"] = "jonas";
