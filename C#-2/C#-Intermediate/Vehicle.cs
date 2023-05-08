@@ -32,6 +32,11 @@ namespace C__Intermediate
         public Car(string Name)
             : base(Name, 2)
         {
+
+        }
+        public void Move(int speed, string to)
+        {
+            Console.WriteLine("{0} has moved towards {1} at a speed of {2}km/h", this.Name, to, speed);
         }
     }
     }
