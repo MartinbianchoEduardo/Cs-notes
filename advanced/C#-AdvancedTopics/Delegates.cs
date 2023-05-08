@@ -4,6 +4,8 @@ namespace C__AdvancedTopics
     //a Delegate is an object that know how to call a method or a group of mehtods
     //it's a reference to a function
 
+    //could be used in the place of a interface
+
     //helps making flexible and extensible applications (eg frameworks)
     class Delegates
     {
