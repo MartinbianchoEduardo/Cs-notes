@@ -1,0 +1,15 @@
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\obj\Debug\net6.0\C#-AdvancedTopics.csproj.AssemblyReference.cache
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\obj\Debug\net6.0\C#-AdvancedTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\obj\Debug\net6.0\C#-AdvancedTopics.AssemblyInfoInputs.cache
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\obj\Debug\net6.0\C#-AdvancedTopics.AssemblyInfo.cs
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\obj\Debug\net6.0\C#-AdvancedTopics.csproj.CoreCompileInputs.cache
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\bin\Debug\net6.0\C#-AdvancedTopics.exe
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\bin\Debug\net6.0\C#-AdvancedTopics.deps.json
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\bin\Debug\net6.0\C#-AdvancedTopics.runtimeconfig.json
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\bin\Debug\net6.0\C#-AdvancedTopics.dll
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\bin\Debug\net6.0\C#-AdvancedTopics.pdb
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\obj\Debug\net6.0\C#-AdvancedTopics.dll
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\obj\Debug\net6.0\refint\C#-AdvancedTopics.dll
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\obj\Debug\net6.0\C#-AdvancedTopics.pdb
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\obj\Debug\net6.0\C#-AdvancedTopics.genruntimeconfig.cache
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\C#-AdvancedTopics\obj\Debug\net6.0\ref\C#-AdvancedTopics.dll
