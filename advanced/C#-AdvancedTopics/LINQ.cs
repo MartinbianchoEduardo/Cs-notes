@@ -33,6 +33,24 @@ namespace C__AdvancedTopics
 
             //these methods can be chained
             //var cheapBooks = books.Where(b => b.Price < 10).OrderBy(b => b.Title);
+
+            //useful extension methods
+            books.Where(); //filter
+            books.Single(); //Get one (if there's none, throws exception)
+            books.SingleOrDefault(); //Get one and if there's none, return null
+
+            books.First(); //get first element
+            books.FirstOrDefault();
+
+            books.Last();
+            books.LastOrDefault();
+
+            books.Min();
+            books.Max();
+            books.Count();
+            books.Sum();
+            books.Average(b => b.Price);
+            books.Skip(5).Take(2); //pagination
         }
 
     }
