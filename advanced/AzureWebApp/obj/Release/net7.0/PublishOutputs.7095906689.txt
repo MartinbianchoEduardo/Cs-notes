@@ -1,0 +1,7 @@
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\AzureWebApp\obj\Release\net7.0\PubTmp\Out\AzureWebApp.exe
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\AzureWebApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\AzureWebApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\AzureWebApp\obj\Release\net7.0\PubTmp\Out\AzureWebApp.dll
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\AzureWebApp\obj\Release\net7.0\PubTmp\Out\AzureWebApp.deps.json
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\AzureWebApp\obj\Release\net7.0\PubTmp\Out\AzureWebApp.runtimeconfig.json
+C:\Users\E. Martinbiancho\Desktop\Courses\C#\advanced\AzureWebApp\obj\Release\net7.0\PubTmp\Out\AzureWebApp.pdb
